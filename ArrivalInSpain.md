@@ -55,7 +55,7 @@ you have to ask for an appointment, you can do it online. This certificate
 recognizes officially that your address is yours. If you get one with a
 temporary address, you will need to redo this step (and the following) when you
 have a permanent one. Bring a copy of your passport, your rental contract (or
-substitute), and your work pre-contract.
+substitute), and your work pre-contract.  
 **UPDATE COVID-19**: In Madrid you have to ask for an appointment, you can do it online.
 This certificate recognizes officially that your address is yours.
 If you get one with a temporary address, you will need to redo this step (and the following) when you have a permanent one.
@@ -69,7 +69,7 @@ The voice Certificado de Empadronamiento is correct only if you have already don
 [Oficina Tesoreria de la Seguridad Social](http://www.seg-social.es/Internet_1/Oficinas/BuscadordeCercanos/index.htm?Cercanos=1),
 to get your social security number. You will be registered in the system, but
 not yet effectively covered (see the section After the contract). Your NIE and
-social security numbers will be linked already.
+social security numbers will be linked already.  
 **UPDATE COVID-19**: The Oficina Tesoreria de la Seguridad Social processeses everything online due to COVID-19 restriction.
 Since the time they process your request is highly variable, I strongly suggest to contact directly the Seccion de Contrattacion Personal Investigador at the UAM
 and ask them to process the request of the social security number. In my experience it was quite effective and I obtained it in few days.
@@ -91,7 +91,7 @@ an appointment at the [Oficina de Extranjeria](http://www.seap.minhap.gob.es/es/
 pre-contract (or contract), photocopy of passport, and a specific form, and a
 receipt for taxes that you can pay at any bank. The appointment can take a while
 to get, but you should be able to do most of the steps without your card.
-HOWEVER, even without completing this step you will be able to request all the other documents.
+HOWEVER, even without completing this step you will be able to request all the other documents.  
 **UPDATE-COVID19**: the appointment at the Extranjeria may take even more time to get.
 Connect at the page: https://sede.administracionespublicas.gob.es/pagina/index/directorio/icpplus
 If there are appointments available, the system will ask to select the office and the date.
@@ -126,9 +126,9 @@ You can sign it with your passport.
 You will need to get an appointment at the Oficina de Extranjeria (depends on the police) to get your NIE card.
 You will have to bring your pre-contract (or contract), photocopy of passport, and a specific form, and a receipt for taxes that you can pay at any bank.
 The appointment can take a while to get, but you should be able to do most of the steps without your card.
-PLEASE BEAR IN MIND TO BRING ORIGINAL AND COPY OF EVERY DOCUMENT, namely precontract, passport, rent contract or rent pre-contract helps.
+PLEASE BEAR IN MIND TO BRING ORIGINAL AND COPY OF EVERY DOCUMENT, namely precontract, passport, rent contract or rent pre-contract helps.  
 **UPDATE-COVID19**: the appointment at the Extranjeria may take even more time to get.
-Connect at the page: https://sede.administracionespublicas.gob.es/pagina/index/directorio/icpplus
+Connect at the page: https://sede.administracionespublicas.gob.es/pagina/index/directorio/icpplus  
 "Acceder al Procedimiento"  
 Select "Madrid" in the drop-down menu  
 Select "Policia - CERTIFICADO DE REGISTRO DE CIUDADANO DE LA UE"  
@@ -150,8 +150,8 @@ all the forms from now on.
 
 -**Empadronamiento**: This is a certificate delivered by your city hall (Ayuntamiento). Look for the Oficina de Atencion al Ciudadano.
 Warning, Madrid (Comunidad de Madrid) is also a region but it is a different administration.
-They have similar offices, but they can’t help you. 
--**UPDATE COVID-19**: In Madrid you have to ask for an appointment, you can do it online.
+They have similar offices, but they can’t help you.   
+**UPDATE COVID-19**: In Madrid you have to ask for an appointment, you can do it online.
 This certificate recognizes officially that your address is yours.
 If you get one with a temporary address, you will need to redo this step (and the following) when you have a permanent one.
 Bring a copy of your passport, your rental contract (or substitute), and your work pre-contract.
@@ -160,16 +160,16 @@ select "Pedir Cita Previa"-> Atencion a la ciudadania
 The voice for the reservation is PADRON if you are not yet subscribed at the Ayuntamiento.
 The voice Certificado de Empadronamiento is correct only if you have already done the first visit (It will be required later, After the contract section).
 
--**Social Security Number**: With the empadronamiento, you can go to your local Oficina Tesoreria de la Seguridad Social, to get your social security number.
--**UPDATE COVID-19**: The Oficina Tesoreria de la Seguridad Social processeses everything online due to COVID-19 restriction.
+-**Social Security Number**: With the empadronamiento, you can go to your local Oficina Tesoreria de la Seguridad Social, to get your social security number.  
+**UPDATE COVID-19**: The Oficina Tesoreria de la Seguridad Social processeses everything online due to COVID-19 restriction.
 Since the time they process your request is highly variable, I strongly suggest to contact directly the Seccion de Contrattacion Personal Investigador at the UAM
 and ask them to process the request of the social security number. In my experience it was quite effective and I obtained it in few days.
 Through the request of the social security number, you will be registered in the system, but not yet effectively covered (see the section After the contract).
 Your NIE and social security numbers will be linked already.
 
 -**Bank account**: With your pre-contract, go to Plaza Mayor at the UAM or to any bank you are comfortable with and open a bank account (it is a standard procedure).
-Indeed, the university needs to put the salary on a Spanish account.
-UPDATE COVID-19: most of the banks now receive through reservation during few hours each day. To reserve an appointment you need the temporary NIE (NIE blanco).
+Indeed, the university needs to put the salary on a Spanish account.  
+**UPDATE COVID-19**: most of the banks now receive through reservation during few hours each day. To reserve an appointment you need the temporary NIE (NIE blanco).
 
 -**Contract**: You are almost there, the human resources in the Rectorado building need your NIE and social security numbers,
 copy of latest academic degree, bank account number and information form.
