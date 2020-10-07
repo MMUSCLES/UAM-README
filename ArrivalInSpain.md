@@ -76,44 +76,96 @@ to get, but you should be able to do most of the steps without your card.
 
 ### E.U. resident
 
-If you are a resident of the European Union, you do not need a visa and working
-permit to get to Spain. However, after you arrival it is maybe more detrimental
-that anything else, since you arrive without NIE. You basically have to follow
-the same steps as the non E.U. residents, with your national ID or passport
-number first, and then redo them with your NIE. Or you got the NIE appointment
-in advance (while you were not in Spain yet), and you will need to go through
-the process (Social Security and bank) only once. Keep in mind that the work
-contract cannot be finalized without your NIE. No interference with the
-empadronamiento.
+If you are a resident of the European Union, you do not need a visa and working permit to get to Spain.
+However, after your arrival it is maybe more detrimental than anything else, since you arrive without NIE.
+You basically have to follow the same steps as the non E.U. residents, with your national ID or passport number first, and then redo them with your NIE.
+Or you got the NIE appointment in advance (while you were not in Spain yet), and you will need to go through the process (Social Security and bank) only once.
+Keep in mind that the work contract cannot be finalized without your NIE. No interference with the empadronamiento.
 
-## After the contract
+-**Quick note - Update**: the passport is needed to get the NIE and to reserve the appointments online.
+While it would not be in normal condition, all the websites to reserve the appointments require the DNI/NIE/PASSPORT number
 
-Now that the contract is finalized and you are actually getting paid, you are
-almost out of the maze.
+-**Spanish Mobile Number**: Absolutely needed to reserve the appointments at the offices and widely preferred to sign papers.
+I suggest to get a low-budget prepaid SIM card, as for a Mobile Contract you will need the NIE.
+Not all the Mobile Services will do it without the NIE, I could achieve it with the passport at Vodafone-ES.
 
-- **With your permanent address**: If you did the previous steps (starting from
-empadronamiento) with a temporary address, you need to get back to doing the
-empadronamiento, social security, NIE and bank account with your permanent
-address.
+-**Rental Contract**: You should find a flat as soon as possible. You will need a rental contract to prove you have somewhere you live.
+The copy of your pre-contract should help with landlords.
+If you need some time to find a flat and feel pressed to have your contract running,
+for the first next steps you can rely solely on a certificate from your temporary housing (university residence, air Bnb, friend that is housing you),
+depending on your negotiation skills.
+You can sign it with your passport.
 
-- **With the NIE**: If you opened a bank account without your NIE, go back to
-Plaza Mayor and update your contract. Same thing for the Social Security.
+-**NIE**: The most frustrating and necessary part of all of it.
+You will need to get an appointment at the Oficina de Extranjeria (depends on the police) to get your NIE card.
+You will have to bring your pre-contract (or contract), photocopy of passport, and a specific form, and a receipt for taxes that you can pay at any bank.
+The appointment can take a while to get, but you should be able to do most of the steps without your card.
+PLEASE BEAR IN MIND TO BRING ORIGINAL AND COPY OF EVERY DOCUMENT, namely precontract, passport, rent contract or rent pre-contract helps.
+**UPDATE-COVID19**: the appointment at the Extranjeria may take even more time to get.
+Connect at the page: https://sede.administracionespublicas.gob.es/pagina/index/directorio/icpplus
+"Acceder al Procedimiento"
+Select "Madrid" in the drop-down menu
+Select "Policia - CERTIFICADO DE REGISTRO DE CIUDADANO DE LA UE"
+(I know, it is tricky but it is NOT THE ASIGNACION NIE VOICE).
+"CERTIFICADO DE REGISTRO"
+Register with the passport
+"Solicitar Cita"
+If there are appointments available, the system will ask to select the office and the date.
+To finalize your reservation you need a Spanish Mobile Number.
+It is common not being able to obtain it the first time and the systems are overwhelmed due to COVID-19.
+Keep trying every few hours to obtain it as it is mandatory.
 
-- **Social security**: Go to the nearest health center (it should be the one you
-are affiliated with, now that you have a permanent address), bring along your
-social security number and a certificate given to you by the university once the
-contract has been signed. You will get there your social security card and be
-effectively covered. If you brought your family with you, this is when they will
-enter the system.
+Once you get to the police with your work pre-contract etc, they will assign you the NIE on a temporary paper and they will reserve a second appointment
+to deliver your signed contract and the social security form. Upon delivery of the required documentation, 
+you will be awarded with your NIE card (5-years work permit).
+I would suggest taking the second appointment a couple of weeks after your first one as the Social Security Number may get a while.
+Note: Although the white paper they deliver with the written NIE is temporary, the NIE number is everlasting in your whole life, so it can be used to compile
+all the forms from now on.
 
-- **UAM account**: To get an official access to the university services, within
-a few days of your contract you should get a UAM account, that comes with a mail
-address and intranet access. With it you will be able to ask for a permanent IP
-address at the *servicio de atencion al usuario*, which is next to
-the *Politecnica* building. Meanwhile, ask Stefan Bilan (the IT guy for the
-department) for a temporary one.
+-**Empadronamiento**: This is a certificate delivered by your city hall (Ayuntamiento). Look for the Oficina de Atencion al Ciudadano.
+Warning, Madrid (Comunidad de Madrid) is also a region but it is a different administration.
+They have similar offices, but they can’t help you. 
+UPDATE COVID-19: In Madrid you have to ask for an appointment, you can do it online.
+This certificate recognizes officially that your address is yours.
+If you get one with a temporary address, you will need to redo this step (and the following) when you have a permanent one.
+Bring a copy of your passport, your rental contract (or substitute), and your work pre-contract.
+At the page: https://www-s.munimadrid.es/CitaNet/Principal.do
+select "Pedir Cita Previa"-> Atencion a la ciudadania
+The voice for the reservation is PADRON if you are not yet subscribed at the Ayuntamiento.
+The voice Certificado de Empadronamiento is correct only if you have already done the first visit (It will be required later, After the contract section).
 
-- **Miscellaneous**: Don’t forget to get an insurance for your flat (this is
-mandatory in Spain).
+-**Social Security Number**: With the empadronamiento, you can go to your local Oficina Tesoreria de la Seguridad Social, to get your social security number.
+UPDATE COVID-19: The Oficina Tesoreria de la Seguridad Social processeses everything online due to COVID-19 restriction.
+Since the time they process your request is highly variable, I strongly suggest to contact directly the Seccion de Contrattacion Personal Investigador at the UAM
+and ask them to process the request of the social security number. In my experience it was quite effective and I obtained it in few days.
+Through the request of the social security number, you will be registered in the system, but not yet effectively covered (see the section After the contract).
+Your NIE and social security numbers will be linked already.
+
+-**Bank account**: With your pre-contract, go to Plaza Mayor at the UAM or to any bank you are comfortable with and open a bank account (it is a standard procedure).
+Indeed, the university needs to put the salary on a Spanish account.
+UPDATE COVID-19: most of the banks now receive through reservation during few hours each day. To reserve an appointment you need the temporary NIE (NIE blanco).
+
+-**Contract**: You are almost there, the human resources in the Rectorado building need your NIE and social security numbers,
+copy of latest academic degree, bank account number and information form.
+
+
+##After the contract**
+Now that the contract is finalized and you are actually getting paid, you are almost out of the maze.
+
+-**With your permanent address**: If you did the previous steps (starting from empadronamiento) with a temporary address,
+you need to get back to doing the empadronamiento, social security, NIE and bank account with your permanent address.
+
+-**With the NIE**: If you opened a bank account without your NIE (probably no longer possible), go back to Plaza Mayor and update your contract.
+Same thing for Social Security. If you follow the instructions above, this step will not be needed.
+
+-**Social security**: Go to the nearest health center (it should be the one you are affiliated with, now that you have a permanent address),
+bring along your social security number and a certificate given to you by the university once the contract has been signed.
+You will get your social security card and be effectively covered. If you brought your family with you, this is when they will enter the system.
+
+-**UAM account**: To get official access to the university services, within a few days of your contract you should get a UAM account,
+that comes with a mail address and intranet access. With it you will be able to ask for a permanent IP address at the servicio de atencion al usuario,
+which is next to the Politecnica building. Meanwhile, ask Stefan Bilan (the IT guy for the department) for a temporary one.
+
+-**Miscellaneous**: Don’t forget to get an insurance if you own a flat (this is mandatory in Spain).
 
 **Good luck, and keep steady!**
