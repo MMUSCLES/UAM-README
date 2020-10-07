@@ -129,13 +129,13 @@ The appointment can take a while to get, but you should be able to do most of th
 PLEASE BEAR IN MIND TO BRING ORIGINAL AND COPY OF EVERY DOCUMENT, namely precontract, passport, rent contract or rent pre-contract helps.
 **UPDATE-COVID19**: the appointment at the Extranjeria may take even more time to get.
 Connect at the page: https://sede.administracionespublicas.gob.es/pagina/index/directorio/icpplus
-"Acceder al Procedimiento"\\
-Select "Madrid" in the drop-down menu\\
-Select "Policia - CERTIFICADO DE REGISTRO DE CIUDADANO DE LA UE"\\
-(I know, it is tricky but it is NOT THE ASIGNACION NIE VOICE).\\
-"CERTIFICADO DE REGISTRO"\\
-Register with the passport\\
-"Solicitar Cita"\\
+"Acceder al Procedimiento"  
+Select "Madrid" in the drop-down menu  
+Select "Policia - CERTIFICADO DE REGISTRO DE CIUDADANO DE LA UE"  
+(I know, it is tricky but it is NOT THE ASIGNACION NIE VOICE).  
+"CERTIFICADO DE REGISTRO"  
+Register with the passport  
+"Solicitar Cita"  
 If there are appointments available, the system will ask to select the office and the date.
 To finalize your reservation you need a Spanish Mobile Number.
 It is common not being able to obtain it the first time and the systems are overwhelmed due to COVID-19.
