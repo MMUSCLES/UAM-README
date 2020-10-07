@@ -56,7 +56,8 @@ recognizes officially that your address is yours. If you get one with a
 temporary address, you will need to redo this step (and the following) when you
 have a permanent one. Bring a copy of your passport, your rental contract (or
 substitute), and your work pre-contract.
--**UPDATE COVID-19**: In Madrid you have to ask for an appointment, you can do it online.
+
+**UPDATE COVID-19**: In Madrid you have to ask for an appointment, you can do it online.
 This certificate recognizes officially that your address is yours.
 If you get one with a temporary address, you will need to redo this step (and the following) when you have a permanent one.
 Bring a copy of your passport, your rental contract (or substitute), and your work pre-contract.
@@ -92,6 +93,7 @@ pre-contract (or contract), photocopy of passport, and a specific form, and a
 receipt for taxes that you can pay at any bank. The appointment can take a while
 to get, but you should be able to do most of the steps without your card.
 HOWEVER, even without completing this step you will be able to request all the other documents.
+
 **UPDATE-COVID19**: the appointment at the Extranjeria may take even more time to get.
 Connect at the page: https://sede.administracionespublicas.gob.es/pagina/index/directorio/icpplus
 If there are appointments available, the system will ask to select the office and the date.
