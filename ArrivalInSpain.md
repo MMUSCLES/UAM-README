@@ -33,6 +33,11 @@ If you are from outside the E.U, things are going to be easier for you, since
 with your visa came the **N.I.E** (ID number for foreigners), which is written
 on your visa. In that case, you will have to get, mostly in that order:
 
+-**Spanish Mobile Number**: Absolutely needed to reserve the appointments at the offices and widely preferred to sign papers.
+I suggest to get a low-budget prepaid SIM card, as for a Mobile Contract you will need the NIE.
+Not all the Mobile Services will do it without the NIE, I could achieve it with the passport at Vodafone-ES.
+
+
 - **Rental Contract**: You should find a flat as soon as possible. You will need
 a rental contract to prove you have somewhere you live. The copy of your
 pre-contract should help with landlords. I did not have to show anything else to
@@ -51,12 +56,25 @@ recognizes officially that your address is yours. If you get one with a
 temporary address, you will need to redo this step (and the following) when you
 have a permanent one. Bring a copy of your passport, your rental contract (or
 substitute), and your work pre-contract.
+-**UPDATE COVID-19**: In Madrid you have to ask for an appointment, you can do it online.
+This certificate recognizes officially that your address is yours.
+If you get one with a temporary address, you will need to redo this step (and the following) when you have a permanent one.
+Bring a copy of your passport, your rental contract (or substitute), and your work pre-contract.
+At the page: https://www-s.munimadrid.es/CitaNet/Principal.do
+select "Pedir Cita Previa"-> Atencion a la ciudadania
+The voice for the reservation is PADRON if you are not yet subscribed at the Ayuntamiento.
+The voice Certificado de Empadronamiento is correct only if you have already done the first visit (It will be required later, After the contract section).
 
 - **Social Security Number**: With the empadronamiento, you can go to your local
 [Oficina Tesoreria de la Seguridad Social](http://www.seg-social.es/Internet_1/Oficinas/BuscadordeCercanos/index.htm?Cercanos=1),
 to get your social security number. You will be registered in the system, but
 not yet effectively covered (see the section After the contract). Your NIE and
 social security numbers will be linked already.
+-**UPDATE COVID-19**: The Oficina Tesoreria de la Seguridad Social processeses everything online due to COVID-19 restriction.
+Since the time they process your request is highly variable, I strongly suggest to contact directly the Seccion de Contrattacion Personal Investigador at the UAM
+and ask them to process the request of the social security number. In my experience it was quite effective and I obtained it in few days.
+Through the request of the social security number, you will be registered in the system, but not yet effectively covered (see the section After the contract).
+Your NIE and social security numbers will be linked already.
 
 - **Bank account**: With your pre-contract, go to Plaza Mayor at the UAM and
 open a bank account (it is a standard procedure). Unless you already have your
@@ -73,12 +91,20 @@ an appointment at the [Oficina de Extranjeria](http://www.seap.minhap.gob.es/es/
 pre-contract (or contract), photocopy of passport, and a specific form, and a
 receipt for taxes that you can pay at any bank. The appointment can take a while
 to get, but you should be able to do most of the steps without your card.
+HOWEVER, even without completing this step you will be able to request all the other documents.
+**UPDATE-COVID19**: the appointment at the Extranjeria may take even more time to get.
+Connect at the page: https://sede.administracionespublicas.gob.es/pagina/index/directorio/icpplus
+If there are appointments available, the system will ask to select the office and the date.
+To finalize your reservation you need a Spanish Mobile Number.
+It is common not being able to obtain it the first time and the systems are overwhelmed due to COVID-19.
+Keep trying every few hours to obtain it.
+You need to finalize your NIE as soon as possible, although you can do it only wonce you possess all the required documentation.
 
 ### E.U. resident
 
 If you are a resident of the European Union, you do not need a visa and working permit to get to Spain.
 However, after your arrival it is maybe more detrimental than anything else, since you arrive without NIE.
-You basically have to follow the same steps as the non E.U. residents, with your national ID or passport number first, and then redo them with your NIE.
+Hence, the documents in this section are presented as the optimal order get everything on track.
 Or you got the NIE appointment in advance (while you were not in Spain yet), and you will need to go through the process (Social Security and bank) only once.
 Keep in mind that the work contract cannot be finalized without your NIE. No interference with the empadronamiento.
 
@@ -125,7 +151,7 @@ all the forms from now on.
 -**Empadronamiento**: This is a certificate delivered by your city hall (Ayuntamiento). Look for the Oficina de Atencion al Ciudadano.
 Warning, Madrid (Comunidad de Madrid) is also a region but it is a different administration.
 They have similar offices, but they can’t help you. 
-UPDATE COVID-19: In Madrid you have to ask for an appointment, you can do it online.
+-**UPDATE COVID-19**: In Madrid you have to ask for an appointment, you can do it online.
 This certificate recognizes officially that your address is yours.
 If you get one with a temporary address, you will need to redo this step (and the following) when you have a permanent one.
 Bring a copy of your passport, your rental contract (or substitute), and your work pre-contract.
@@ -135,7 +161,7 @@ The voice for the reservation is PADRON if you are not yet subscribed at the Ayu
 The voice Certificado de Empadronamiento is correct only if you have already done the first visit (It will be required later, After the contract section).
 
 -**Social Security Number**: With the empadronamiento, you can go to your local Oficina Tesoreria de la Seguridad Social, to get your social security number.
-UPDATE COVID-19: The Oficina Tesoreria de la Seguridad Social processeses everything online due to COVID-19 restriction.
+-**UPDATE COVID-19**: The Oficina Tesoreria de la Seguridad Social processeses everything online due to COVID-19 restriction.
 Since the time they process your request is highly variable, I strongly suggest to contact directly the Seccion de Contrattacion Personal Investigador at the UAM
 and ask them to process the request of the social security number. In my experience it was quite effective and I obtained it in few days.
 Through the request of the social security number, you will be registered in the system, but not yet effectively covered (see the section After the contract).
@@ -149,7 +175,7 @@ UPDATE COVID-19: most of the banks now receive through reservation during few ho
 copy of latest academic degree, bank account number and information form.
 
 
-##After the contract**
+## After the contract
 Now that the contract is finalized and you are actually getting paid, you are almost out of the maze.
 
 -**With your permanent address**: If you did the previous steps (starting from empadronamiento) with a temporary address,
