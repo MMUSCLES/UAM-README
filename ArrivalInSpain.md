@@ -56,7 +56,6 @@ recognizes officially that your address is yours. If you get one with a
 temporary address, you will need to redo this step (and the following) when you
 have a permanent one. Bring a copy of your passport, your rental contract (or
 substitute), and your work pre-contract.
-
 **UPDATE COVID-19**: In Madrid you have to ask for an appointment, you can do it online.
 This certificate recognizes officially that your address is yours.
 If you get one with a temporary address, you will need to redo this step (and the following) when you have a permanent one.
@@ -71,7 +70,7 @@ The voice Certificado de Empadronamiento is correct only if you have already don
 to get your social security number. You will be registered in the system, but
 not yet effectively covered (see the section After the contract). Your NIE and
 social security numbers will be linked already.
--**UPDATE COVID-19**: The Oficina Tesoreria de la Seguridad Social processeses everything online due to COVID-19 restriction.
+**UPDATE COVID-19**: The Oficina Tesoreria de la Seguridad Social processeses everything online due to COVID-19 restriction.
 Since the time they process your request is highly variable, I strongly suggest to contact directly the Seccion de Contrattacion Personal Investigador at the UAM
 and ask them to process the request of the social security number. In my experience it was quite effective and I obtained it in few days.
 Through the request of the social security number, you will be registered in the system, but not yet effectively covered (see the section After the contract).
@@ -93,7 +92,6 @@ pre-contract (or contract), photocopy of passport, and a specific form, and a
 receipt for taxes that you can pay at any bank. The appointment can take a while
 to get, but you should be able to do most of the steps without your card.
 HOWEVER, even without completing this step you will be able to request all the other documents.
-
 **UPDATE-COVID19**: the appointment at the Extranjeria may take even more time to get.
 Connect at the page: https://sede.administracionespublicas.gob.es/pagina/index/directorio/icpplus
 If there are appointments available, the system will ask to select the office and the date.
@@ -131,13 +129,13 @@ The appointment can take a while to get, but you should be able to do most of th
 PLEASE BEAR IN MIND TO BRING ORIGINAL AND COPY OF EVERY DOCUMENT, namely precontract, passport, rent contract or rent pre-contract helps.
 **UPDATE-COVID19**: the appointment at the Extranjeria may take even more time to get.
 Connect at the page: https://sede.administracionespublicas.gob.es/pagina/index/directorio/icpplus
-"Acceder al Procedimiento"
-Select "Madrid" in the drop-down menu
-Select "Policia - CERTIFICADO DE REGISTRO DE CIUDADANO DE LA UE"
-(I know, it is tricky but it is NOT THE ASIGNACION NIE VOICE).
-"CERTIFICADO DE REGISTRO"
-Register with the passport
-"Solicitar Cita"
+"Acceder al Procedimiento"\\
+Select "Madrid" in the drop-down menu\\
+Select "Policia - CERTIFICADO DE REGISTRO DE CIUDADANO DE LA UE"\\
+(I know, it is tricky but it is NOT THE ASIGNACION NIE VOICE).\\
+"CERTIFICADO DE REGISTRO"\\
+Register with the passport\\
+"Solicitar Cita"\\
 If there are appointments available, the system will ask to select the office and the date.
 To finalize your reservation you need a Spanish Mobile Number.
 It is common not being able to obtain it the first time and the systems are overwhelmed due to COVID-19.
