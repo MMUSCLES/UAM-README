@@ -4,10 +4,13 @@ Welcome to Spain, and more particularly to our group. Even if Spanish people are
 generally warm and welcoming, it is sometimes hard for newcomers, especially the
 non-spanish-speakers, to find their way through all the administrative steps in
 order to settle down easily. These small guidelines will give you an overview of
-the process, that can be quite time-(and patience)- consuming. We will focus
-mostly on how to get to signing your contract. In any case you should go to the
-[Servicio de Acogida para los Extranjeros](http://www.uam.es/ss/Satellite/es/1242652242790/subHomeServicio/Oficina_de_Acogida.htm)
-on Plaza Mayor at the UAM: it is their job to walk you through your arrival.
+the process, that can be quite time-(and patience)- consuming. They were originally 
+prepared by Alex Delga and have since been updated by various group members based
+on their experiences and changing procedures.
+
+We will focus mostly on how to get to signing your contract. In any case you should contact the
+[Oficina de Acogida Internacional](https://www.uam.es/uam/en/internacional/oficina-acogida-internacional)
+in Plaza Mayor at UAM: it is their job to walk you through your arrival.
 They may even pinpoint you the points mentioned here that are outdated or even
 (but hopefully not) wrong. Note that all the links provided in this document
 suppose that you’ll choose to live in Madrid city, and they are in Spanish.
