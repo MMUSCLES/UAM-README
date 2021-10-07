@@ -1,3 +1,5 @@
+# How to announce a position and hire a PhD student / postdoc at UAM
+
 Here a short overview of the process you should follow if you want to hire
 someone at UAM with funding from a project.
 
