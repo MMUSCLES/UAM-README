@@ -1,4 +1,4 @@
-# UAM READMEs
+# UAM README
 
 This repository collects relevant information for new PhD
 students/postdocs/group leaders at the [Universidad Autónoma de
